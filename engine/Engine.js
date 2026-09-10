@@ -1,3 +1,5 @@
+// The main file that initializes the engine and sets up the game loop, input handling, and scene management
+
 import "/engine/classes/Component.js"
 import "/engine/classes/GameObject.js"
 import "/engine/classes/Scene.js"
@@ -42,8 +44,6 @@ class Engine {
                 Engine.isSystemPaused = true
             }
         }
-
-        //Engine.currentScene.draw(ctx)
 
         if(!Engine.isSystemPaused){
             Engine.currentScene._start(ctx)

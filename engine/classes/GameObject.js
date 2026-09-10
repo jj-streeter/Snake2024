@@ -1,3 +1,5 @@
+// Class GameObject represents an object in the game which can have multiple components and a transform location
+
 class GameObject {
     components = []
     layer = 0

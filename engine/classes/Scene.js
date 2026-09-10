@@ -1,3 +1,5 @@
+// Class Scene represents a scene in a game, managing game objects, rendering, logical coordinates, and aspect ratio handling.
+
 class Scene {
     gameObjects = []
     hasStarted = false
