@@ -16,7 +16,7 @@ The game is built to run on a web browser using a local server to access the HTM
    http://localhost:8000/Snake2024/snake/
 
 # Topics and skills learned:
-### Game engine architecture:
+### Game engine architecture
    Built a lightweight game engine with a render loop, scene management, and lifecycle updates in Engine.js, Scene.js, and GameObject.js
 ### Component-based design
    Implemented reusable systems using GameObjects and Components in Component.js and Transform.js
