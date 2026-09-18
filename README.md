@@ -5,7 +5,7 @@ The game engine was built from scratch over the semester as the core focus of th
 to recreate for the final project. The structure and function of the engine is modeled after the Unity Game Engine, and was written using JavaScript.
 The game is built to run on a web browser using a local server to access the HTML file.
 
-# Intructions for running this game:
+# Instructions for running this game:
 1. Download or clone the Snake2024 project
 2. Start a local web server from the project folder
 3. Open the game in a browser at:
